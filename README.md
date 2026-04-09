@@ -27,7 +27,8 @@ I have made this train post dashboard 2015, 2016, 2017, 2018 which is the sales 
 - Added slicers for filtering (region & Segment)
 
 ##Dashboard
-<img width="1920" height="1080" alt="train_sales_dashBoard1" src="https://github.com/user-attachments/assets/0bd446e0-4ac7-4503-813b-2357c5e68299" />
+<img width="1920" height="952" alt="train_sales_dashBoard1" src="https://github.com/user-attachments/assets/1bd99b0b-441d-4fdc-b31a-f62a08012c0f" />
+
 
 
 - 
