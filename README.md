@@ -29,6 +29,18 @@ I have made this train post dashboard 2015, 2016, 2017, 2018 which is the sales 
 ##Dashboard
 <img width="1920" height="952" alt="train_sales_dashBoard1" src="https://github.com/user-attachments/assets/1bd99b0b-441d-4fdc-b31a-f62a08012c0f" />
 
+## Project Insights
+- Consumer segment generates the highest sales
+- Corporate and Home Office segments contribute
+- West and East regions perform bettter compared to Central and South
+- Sales are not consistent over time
+- Technology/Office Supplies categories contribute strongly
+- A few high-value transactions drive the maximum sales
+- Overall sales volume is high 
 
 
-- 
+## Final Conclusion
+The Sales Deshboard provides a clear view of business performance. It shows that the Consumer 
+segment and top-performing regions drive most of the revenue, while other segments have growth
+potential, Sales trends fluctude over time, indicating the need for better planning and consistency.
+Overall, the dashboard helps in making data-driven decisions to improve sales performance.
